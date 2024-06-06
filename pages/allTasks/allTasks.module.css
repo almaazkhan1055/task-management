@@ -1,0 +1,31 @@
+.mainAllTask {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 4% 8%;
+  gap: 30px;
+  flex-wrap: wrap;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.allTaskSection {
+  border: 1px solid gray;
+  padding: 2%;
+  width: 500px;
+  height: 250px;
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.font {
+  font-weight: bolder;
+  text-transform: capitalize;
+}
+
+.select {
+  border: 1px solid gray;
+  margin: 10px 0;
+}
+
+.fontChild {
+  text-transform: capitalize;
+}
